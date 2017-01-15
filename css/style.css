@@ -1,0 +1,79 @@
+/************************
+GENERAL 
+*************************/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+#primary-wrapper {
+  max-width: 58.75em;
+  margin: 0 auto;
+  padding: 0 5%;
+  background-color: #f5f5f5;
+}
+
+#secondary-wrapper {
+	max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+  border: 3px solid #f5f5f5;
+}
+
+/************************
+HEADINGS
+*************************/
+
+h1 {
+  font-family: 'Changa One', sans-serif; 
+  margin: 15px 0;
+  font-size: 3em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+h2 {
+  font-size: 0.75em;
+  margin: -5px 0 0;
+  font-weight: normal; 
+}
+
+h3 {
+	font-size: 1.75em;
+  margin: 5px 0 0;
+  font-weight: normal;
+}
+
+h4 {
+	font-size: 1.25em;
+  margin: 5px 0 0;
+  font-weight: bold;
+}
+
+h5 {
+	font-size: 0.8em;
+  margin: 5px 0 0;
+  font-weight: bold;
+}
+
+
+/************************
+IMG
+*************************/
+
+.profile-photo {
+	display: block; 
+	max-width: 9.375em;
+	border-radius: 10%;
+	float: left;
+	margin: 0 5% 0 0; 
+}
+
+.gallary {
+	display: block; 
+	max-width: 5em;
+	border-radius: 10%;
+	float: right;
+	margin: 0 5% 0 0;
+}
